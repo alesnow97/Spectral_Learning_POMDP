@@ -1,6 +1,6 @@
 # Spectral Learning for Infinite-Horizon Average-Reward POMDPs
 
-This repository contains the official implementation of the paper *Spectral Learning for Infinite-Horizon Average-Reward POMDPs*. 
+This repository contains the official implementation of the paper *Spectral Learning for Infinite-Horizon Average-Reward POMDPs* published at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025). 
 
 This work provides a new technique based on spectral decomposition strategies that helps combining samples coming from multiple adaptive policies to provably estimate the parameters of a POMDP model.  
 We improve the sample-efficiency of state-of-the-art online learning algorithms for POMDPs by providing the **Mixed Spectral UCRL** algorithm which is the first algorithm to achieve $\widetilde{\mathcal{O}}(\sqrt{T})$ regret when compared against the best belief-based policy.
