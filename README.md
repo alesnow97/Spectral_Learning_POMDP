@@ -16,7 +16,7 @@ We provide below a **Table of Comparison**, in terms of both assumptions and res
 | Works Under Belief-based Policies                        | ❌                   | ❌                         | ✅                          |
 | Sample Reuse with Different Policies                     | ❌                   | ❌                         | ✅                          |
 | Compares Against the Strongest Oracle                    | ❌                   | ✅                         | ✅                          |
-| Regret against the Strongest Oracle                      | 😞 $\mathcal{O}(T)$ | 😐 $\mathcal{O}(T^{2/3})$ | 🙂 $\mathcal{O}(\sqrt{T})$ |
+| Regret against the Strongest Oracle                      | $\mathcal{O}(T)$ | $\mathcal{O}(T^{2/3})$ | $\mathcal{O}(\sqrt{T})$ |
 
 
 ## Requirements
